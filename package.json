@@ -1,0 +1,9 @@
+{
+  "name": "stock-ticker-live2",
+  "version": "0.0.0",
+  "description": "StockTickerLive2",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
